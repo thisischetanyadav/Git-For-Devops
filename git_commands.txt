@@ -1,0 +1,14 @@
+  javac Main.java
+  ls
+  ls -l
+  rm Main.java
+  dir
+  git init
+  dir
+  git status
+  git add Main.java
+  git commit -m "main java file added"
+  rm test.txt
+  rm Main.java
+  git restore Main.java
+  history
