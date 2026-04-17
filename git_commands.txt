@@ -12,3 +12,11 @@
   rm Main.java
   git restore Main.java
   history
+  
+git remote add origin <your remote git URL>
+
+git remote -v
+
+clear
+git remote -v
+git push origin master
